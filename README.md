@@ -96,6 +96,6 @@ Here's how you may easily use this tool to generate puzzles around your giveaway
 - RosimInc (`rosiminc7@gmail.com`)
 
 
-## Licence
+## License
 
 This project is licensed under the MIT License - see the LICENSE.md file for details
